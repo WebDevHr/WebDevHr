@@ -17,7 +17,7 @@ I'm a passionate Full Stack Developer.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://webdevhr.com)**
 
-- 📫 How to reach me **wdeveloperhr@gmail.com**
+- 📫 How to reach me ? **wdeveloperhr@gmail.com**
 
 - ⚡ Fun fact **I play games and love to hang out during the holidays.**
 
