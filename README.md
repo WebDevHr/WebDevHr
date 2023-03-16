@@ -50,7 +50,7 @@ I'm a passionate Full Stack Developer.
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/telegram-app.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin-2.png"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/> </a>
     
 </p>
 ## 🔗 Links
