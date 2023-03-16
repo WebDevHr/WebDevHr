@@ -24,6 +24,8 @@ I'm a passionate Full Stack Developer.
 <h2>🛠 Skills</h2>
 Javascript, HTML, CSS...
 
+<br/>
+
 <h2>🚀 Languages and Tools: </h2>
 
 <p align="left"> 
@@ -53,8 +55,7 @@ Javascript, HTML, CSS...
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/telegram-app.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/> </a>
-    
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/> </a>  
 </p>
 
 
