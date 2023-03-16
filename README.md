@@ -22,7 +22,7 @@ I'm a passionate Full Stack Developer.
 - ⚡ Fun fact **I play games and love to hang out during the holidays.**
 
 <h2>🛠 Skills</h2>
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, VueJs 2.0, NuxtJs, NodeJs, Bootstrap, JQuery, ExpressJs...
 
 <br/>
 
