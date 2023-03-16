@@ -21,7 +21,10 @@ I'm a passionate Full Stack Developer.
 
 - ⚡ Fun fact **I play games and love to hang out during the holidays.**
 
-## 🚀 Languages and Tools:
+<h2>🛠 Skills</h2>
+Javascript, HTML, CSS...
+
+<h2>🚀 Languages and Tools: </h2>
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
@@ -55,7 +58,6 @@ I'm a passionate Full Stack Developer.
 </p>
 
 
-<h2>🛠 Skills</h2>
-Javascript, HTML, CSS...
+
 
 
