@@ -45,7 +45,7 @@ I'm a passionate Full Stack Developer.
 
 <br/>
 <p align="center">
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" "https://img.icons8.com/fluency/48/000000/twitter.png"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/> </a> 
 </p>
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
