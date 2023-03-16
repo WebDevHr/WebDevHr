@@ -44,7 +44,7 @@ I'm a passionate Full Stack Developer.
 </p>
 
 <br/>
-<h3>🔗 Links</h3>
+<h4>🔗 Links</h4>
 <p align="center">
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/> </a> 
 </p>
